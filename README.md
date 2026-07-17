@@ -7,7 +7,7 @@ Este repositório reúne todos os projetos e desafios desenvolvidos durante meus
 
 O objetivo é documentar minha evolução em programação, praticar boas práticas de desenvolvimento e construir um portfólio público.
 
-## Tecnologias
+## ## Tecnologias
 
 - Python
 - HTML
